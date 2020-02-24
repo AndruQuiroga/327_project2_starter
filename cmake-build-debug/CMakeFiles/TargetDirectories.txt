@@ -1,0 +1,3 @@
+/home/dreski/cpsc327/327_project2_starter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dreski/cpsc327/327_project2_starter/cmake-build-debug/CMakeFiles/327_project2_starter.dir
+/home/dreski/cpsc327/327_project2_starter/cmake-build-debug/CMakeFiles/edit_cache.dir

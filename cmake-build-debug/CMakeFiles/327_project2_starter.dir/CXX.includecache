@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dreski/cpsc327/327_project2_starter/src/array_functions.cpp
+algorithm
+-
+array_functions.h
+/home/dreski/cpsc327/327_project2_starter/src/array_functions.h
+utilities.h
+/home/dreski/cpsc327/327_project2_starter/src/utilities.h
+
+/home/dreski/cpsc327/327_project2_starter/src/array_functions.h
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+constants.h
+/home/dreski/cpsc327/327_project2_starter/src/constants.h
+
+/home/dreski/cpsc327/327_project2_starter/src/constants.h
+string
+-
+
+/home/dreski/cpsc327/327_project2_starter/src/utilities.h
+string
+-
+
